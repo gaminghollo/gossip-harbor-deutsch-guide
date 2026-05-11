@@ -1,0 +1,22 @@
+name: "Daily Resource Check"
+
+on:
+  # Runs once a day to ensure your Gossip Harbor links work
+  schedule:
+    - cron: '0 0 * * *'
+  # Allows you to run it manually for testing
+  workflow_dispatch:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          # This checks every link in your README.md
+          args: --verbose --no-progress "README.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
