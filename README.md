@@ -12,7 +12,7 @@ Willkommen beim ultimativen Community-Repository für **Gossip Harbor**. Dieses 
 Um das beste Spielerlebnis zu erhalten, empfehlen wir die folgenden offiziellen und Community-basierten Quellen:
 
 1.  **Unsere Web-App:** [Gossip Harbor Ressourcen-Planer](https://gossipharborenergiekostenlos.web.app/) – Speziell für die deutsche Community entwickelt.
-2.  **Offizieller Download:** [Gossip Harbor im Google Play Store](https://play.google.com/store/apps/details?id=com.microfun.gossipharbor) – Laden Sie die neueste Version des Spiels herunter.
+2.  **Offizieller Download:** [Gossip Harbor im Google Play Store](https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor) – Laden Sie die neueste Version des Spiels herunter.
 3.  **Community-Hub:** [Offizielle Gossip Harbor Facebook-Seite](https://www.facebook.com/GossipHarbor) – Bleiben Sie über globale Ankündigungen informiert.
 
 ## 🛠️ System-Status
