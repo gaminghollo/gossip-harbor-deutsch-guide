@@ -6,7 +6,7 @@ Willkommen beim ultimativen Community-Repository für **Gossip Harbor**. Dieses 
 *   **Energie-Optimierung:** Maximieren Sie Ihre Züge durch effiziente Merge-Ketten.
 *   **Item-Datenbank:** Eine Übersicht aller Gegenstände und ihrer Generatoren.
 *   **Event-Kalender:** Aktuelle Informationen zu zeitlich begrenzten Events.
-*   **Interaktiver Planer:** Nutzen Sie unsere [Gossip Harbor Web-App](https://gossipharborenergiekostenlos.web.app/), um Ihren Spielfortschritt zu optimieren.
+*   **Interaktiver Planer:** Nutzen Sie unsere [Gossip Harbor Web-App](https://gossip-harbor-energie-kostenlos.pages.dev/), um Ihren Spielfortschritt zu optimieren.
 
 ## 🚀 Hilfreiche Ressourcen
 Um das beste Spielerlebnis zu erhalten, empfehlen wir die folgenden offiziellen und Community-basierten Quellen:
